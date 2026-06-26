@@ -4,7 +4,7 @@ title: 'About Me'
 
 Hi! I see you've found my website!
 
-I'm August [she/they/it], a 21-year-old deergirl & hobbyist systems programmer. I mainly write CLI software in Rust, but I also work with server infrastructure technology- mainly Proxmox VE, containers, virtual machines, and networking. Currently, I'm learning more about operating system design, with the goal of writing a capability-based microkernel OS. I aim to be the first girl in the world to understand the entire Computer all at once.
+I'm August [she/they/it], a 21-year-old deergirl & hobbyist systems programmer. I mainly write CLI software in Rust, but I also work with server infrastructure technology- mainly Proxmox VE, containers, virtual machines, and networking. Currently, I'm learning more about operating system design, with the goal of writing a [capability-based microkernel OS](https://git.shibedrill.site/shibedrill/gila). I aim to be the first girl in the world to understand the entire Computer all at once.
 
 My interests include security, systems software, operating systems, systems design, decentralized tech, cryptography, and modular and flexible computing. I host all my projects publicly [on my Gitea server](https://git.shibedrill.site), so go check it out if you wanna see the stuff I make.
 
